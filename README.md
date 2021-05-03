@@ -1,2 +1,2 @@
 # Importando-Dados-Pd
-Projeto de importação de dados com pandas
+Projeto de estudos importação de dados com pandas e análise dos dados.
