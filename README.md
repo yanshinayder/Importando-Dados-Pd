@@ -1,2 +1,4 @@
 # Importando-Dados-Pd
-Projeto de estudos importação de dados com pandas e análise dos dados.
+Importação de Arquivo CSV.
+Tratamento dos dados utilizando biblioteca pandas.
+
